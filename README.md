@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Bandersnatch Project](https://github.com/Lelan30/BandersnatchStarter/tree/main/app)
+- 🔭 I’m currently working on [3D Face Analysis W/Insight](https://colab.research.google.com/drive/1YzyxSI_NYX3MJs2-NdNirHDQDyoDcsbw#scrollTo=ZzRqx3iZ-6zb)
 
 - 🌱 I’m currently learning **Pytorch, EfficientNet, and Transfer Learning**
 
