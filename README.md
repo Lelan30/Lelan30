@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [3D Face Analysis W/Insight](https://colab.research.google.com/drive/1YzyxSI_NYX3MJs2-NdNirHDQDyoDcsbw#scrollTo=ZzRqx3iZ-6zb)
+- 🔭 I’m currently working on [3D Face Analysis W/InsightFace](https://colab.research.google.com/drive/1YzyxSI_NYX3MJs2-NdNirHDQDyoDcsbw#scrollTo=ZzRqx3iZ-6zb)
 
-- 🌱 I’m currently learning **Insight**
+- 🌱 I’m currently learning **InsightFace**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
