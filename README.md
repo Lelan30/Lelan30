@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [3D Face Analysis W/InsightFace](https://colab.research.google.com/drive/1YzyxSI_NYX3MJs2-NdNirHDQDyoDcsbw#scrollTo=ZzRqx3iZ-6zb)
+- 🔭 I’m currently working on [Cannabis Species EDA](https://colab.research.google.com/drive/1O82CZkzaAiQMeJfPXl2Q-pMDLgUbr5tH#scrollTo=qpIwkDzmVA8Q)
 
-- 🌱 I’m currently learning **InsightFace**
+- 🌱 I’m currently learning **Word Tokenization & NLP Models**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
