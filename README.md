@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cannabis Species EDA](https://colab.research.google.com/drive/1O82CZkzaAiQMeJfPXl2Q-pMDLgUbr5tH#scrollTo=qpIwkDzmVA8Q)
 
-- 🌱 I’m currently learning **Word Tokenization & NLP Models**
+- 🌱 I’m currently learning **Word Tokenization & Pipeline Creation**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
