@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **finding my next full time role**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Lelan30/](https://github.com/Lelan30/)
+- 👨‍💻 All of my projects are available here on [https://github.com/Lelan30/](https://github.com/Lelan30/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nate-henry-078890161/](https://www.linkedin.com/in/nate-henry-078890161/)
 
