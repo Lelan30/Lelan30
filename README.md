@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Statistical Analysis and ML WorkFlow](https://colab.research.google.com/drive/122g6x14Koq86sYtKev23HiAq_T3RoLO0#scrollTo=iM7tkfWlyNjv)
+- 🔭 I’m currently working on [Building ETL Pipelines](https://colab.research.google.com/drive/1yPHOAyKkNYsPXOAGo89Hja9oOWcY_XRH#scrollTo=DpuvdmZvkzuq)
 
-- 🌱 I’m currently learning **Statistical Test for correlation/Hypothesis Testing**
+- 🌱 I’m currently learning **Extracting, Transforming, and Loading Data**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
