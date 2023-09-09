@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Building ETL Pipelines](https://colab.research.google.com/drive/1yPHOAyKkNYsPXOAGo89Hja9oOWcY_XRH#scrollTo=DpuvdmZvkzuq)
+- 🔭 I’m currently working on [Predictive Analysis Models](https://colab.research.google.com/drive/1H47FFE44FlwTiq7FXWOpPErNeVhEEz1J#scrollTo=N3jO--HtH5wQ)
 
-- 🌱 I’m currently learning **Extracting, Transforming, and Loading Data**
+- 🌱 I’m currently learning **TFDF & Catboost**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
