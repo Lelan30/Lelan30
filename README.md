@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Predictive Analysis Models](https://colab.research.google.com/drive/1H47FFE44FlwTiq7FXWOpPErNeVhEEz1J#scrollTo=N3jO--HtH5wQ)
+- 🔭 I’m currently working on [Predicting Fraud with TensorFlow](https://colab.research.google.com/drive/1DAHSU9dZUq1EwqqcR_4A9YUzv1ZlFTRa#scrollTo=rNefYrqe0Gtu)
 
-- 🌱 I’m currently learning **TFDF & Catboost**
+- 🌱 I’m currently learning **TensorFlow / t_SNE**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
