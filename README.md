@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Predicting Fraud with TensorFlow](https://colab.research.google.com/drive/1DAHSU9dZUq1EwqqcR_4A9YUzv1ZlFTRa#scrollTo=rNefYrqe0Gtu)
+- 🔭 I’m currently working on [Cat Translator]('...')
 
-- 🌱 I’m currently learning **TensorFlow / t_SNE**
+- 🌱 I’m currently learning **Audio Loading/Visualizing Sound**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
