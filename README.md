@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Cat Translator]('...')
+- 🔭 I’m currently working on [Cat Translator / Universal Animal-Human Translator]('...')
 
 - 🌱 I’m currently learning **Audio Loading/Visualizing Sound**
 
