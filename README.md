@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cat Translator / Universal Animal-Human Translator]('...')
 
-- 🌱 I’m currently learning **Audio Loading/Visualizing Sound**
+- 🌱 I’m currently learning **Audio Loading/Visualizing Sound/SpeechBrain**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
