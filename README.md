@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nate-henry-078890161/](https://www.linkedin.com/in/nate-henry-078890161/)
 
-- 💬 Ask me about **NLP's or Deep Learning with Neural Networks**
+- 💬 Ask me about **NLP or Deep Learning with Neural Networks**
 
 - 📫 How to reach me **neterhb@gmail.com**
 
