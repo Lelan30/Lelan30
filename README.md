@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Cat Meow Classification](https://colab.research.google.com/drive/1FLCIRMi1ixHGCjFI2DBf3x4k30Vz3-TG?pli=1#scrollTo=WY_Zyw_oBmig&uniqifier=1)
 
-- 🌱 I’m currently learning **Audio Loading/Visualizing Sound/SpeechBrain**
+- 🌱 I’m currently learning **Audio Loading/Visualizing Sound/SpeechBrain/RNN & CNN's**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
