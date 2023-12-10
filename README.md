@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Cat Meow Classification](https://colab.research.google.com/drive/1FLCIRMi1ixHGCjFI2DBf3x4k30Vz3-TG?pli=1#scrollTo=WY_Zyw_oBmig&uniqifier=1)
+- 🔭 I’m currently working on [Cat Meow Classification]()
 
 - 🌱 I’m currently learning **Audio Loading/Visualizing Sound/SpeechBrain/RNN & CNN's**
 
