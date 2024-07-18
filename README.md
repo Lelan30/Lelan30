@@ -12,7 +12,7 @@
 - 👨‍💻 All of my projects are available here on **Github**
 
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/nate-henry-078890161/](https://www.linkedin.com/in/nate-henry-078890161/)
+- 📝 I occasionally write articles on [https://www.linkedin.com/in/nate-henry-078890161/](https://www.linkedin.com/in/nate-henry-078890161/)
 
 - 💬 Ask me about **NLP or Deep Learning with Neural Networks**
 
