@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Cat Meow Recognition: A Deep Learning Approach for Breed, Stimulus, and Affection Recognition]()
+- 🔭 I’m currently working on [Meow Interpretation via Audio & Understanding(MIAU)]()
 
-- 🌱 I’m currently learning **Audio Loading/Visualizing Sound/SpeechBrain/RNN & CNN's**
+- 🌱 I’m currently learning **YOLO, Deep Neural Networks, CNN, Late Fusion Modeling**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
