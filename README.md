@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nate</h1>
 <h3 align="center">A passionate Data Scientist from Arkansas</h3>
 
-- 🔭 I’m currently working on [Meow Interpretation via Audio & Understanding(MIAU)]()
+- 🔭 I’m currently working on [Meow Interpretation via Audio & Understanding (MIAU)]()
 
 - 🌱 I’m currently learning **YOLO, Deep Neural Networks, CNN, Late Fusion Modeling**
 
