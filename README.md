@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Meow Interpretation via Audio & Understanding (MIAU)]()
 
-- 🌱 I’m currently learning **YOLO, Deep Neural Networks, CNN, Late Fusion Modeling**
+- 🌱 I’m currently learning **Currently developing skills in regression testing, system behavior auditing, telemetry-driven debugging, software observability, instrumentation, and root-cause analysis for a multimodal AI inference pipeline.**
 
 - 👯 I’m looking to collaborate on **new and exciting projects**
 
